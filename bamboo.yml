@@ -1,8 +1,8 @@
 ---
 version: 2
 plan:
-  project-key: MARS
-  key: ROCKET
+  project-key: DEMO
+  key: DEMO
   name: Build the rockets
 
 # List of plan's stages and jobs
