@@ -7,7 +7,7 @@ plan:
 
 # List of plan's stages and jobs
 stages:
-  - Build the rocket stage:
+  - Build the specs stage:
     - Build
 
 #Job definition
