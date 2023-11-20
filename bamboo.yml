@@ -3,7 +3,7 @@ version: 2
 plan:
   project-key: DEMO
   key: DEMO
-  name: Build the rockets
+  name: Build the rockets2
 
 # List of plan's stages and jobs
 stages:
